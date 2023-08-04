@@ -1,0 +1,142 @@
+.head{
+    text-align: center;
+    padding-bottom: 55px;
+    margin-bottom: 20px;
+    font-size: 30px;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    height: 730px;
+    justify-content: space-around;
+}
+
+.box{
+    border: 2px solid black;
+    width: 20%;
+    padding: 4px 15px;
+    box-shadow: 10px 10px 8px grey;
+}
+
+.para{
+    font-size: 20px;
+    
+}
+
+#para0{
+    margin-bottom: 68px;
+    font-size: 20px;
+}
+
+.content{
+    font-size: 25px;
+    list-style-type: none;
+    font-size: 25px;
+    margin-top: 40px;
+    padding-left: 30px;
+}
+
+ul li{
+    display: block;
+    padding-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+ul li:before{
+    content: '✓ ';
+    
+}
+
+.btn{
+    border: 2px solid black;
+    color: blue;
+    padding: 8px 8px;
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.btn1{
+    background-color: blue;
+    border: 2px solid black;
+    color: white;
+    padding: 8px 8px;
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.button{
+    margin-left: 35px;
+}
+
+.btn2{
+    background-color: black;
+    color: white;
+    padding: 15px 100px;
+    font-size: 25px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    margin: 88px auto;
+    cursor: pointer;
+}
+
+#btn3{
+    background-color: black;
+    color: white;
+    padding: 15px 100px;
+    font-size: 25px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    margin: 60px auto;
+    cursor: pointer;
+}
+
+#btn4{
+    background-color: black;
+    color: white;
+    padding: 15px 100px;
+    font-size: 25px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    margin: 5px auto;
+    cursor: pointer;
+}
+
+.btn2:hover{
+    background-color: rgb(219, 214, 214);
+    color: black;
+    transform: scale(1.05);
+}
+
+#btn3:hover{
+    background-color: rgb(219, 214, 214);
+    color: black;
+    transform: scale(1.05);
+}
+
+#btn4:hover{
+    background-color: rgb(219, 214, 214);
+    color: black;
+    transform: scale(1.08);
+}
+
+footer{
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+    padding: 9px 20px;
+}
+
+.foot{
+    text-align: center;
+    font-size: large;
+    
+}
