@@ -1,9 +1,18 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .head{
     text-align: center;
     padding-bottom: 55px;
     margin-bottom: 20px;
     font-size: 30px;
 
+}
+
+#Heading img{
+    width: 70px;
+    /* margin-top: 4px; */
 }
 
 .container{
