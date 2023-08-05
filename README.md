@@ -22,3 +22,5 @@ The clone includes illustrations similar to the original page to create a more a
 ## Technologies Used:
 1. HTML
 2. CSS
+
+![Screenshot 2023-08-05 130814](https://github.com/Harshvardhan2164/Spotify-Premium-Webpage-using-CSS/assets/118614604/2135b6df-037b-40a2-81eb-3cc6418b66dd)
